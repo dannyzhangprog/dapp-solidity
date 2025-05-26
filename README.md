@@ -20,11 +20,12 @@
 
 ## Demo 2: Fund Me
 💻 **Code**:  
-- Backend: [github.com/dannyzhangprog/dapp-fund-me-backend](https://github.com/dannyzhangprog/dapp-fund-me-backend)  *(建议修正原链接，原内容中前后端链接重复)*  
+- Backend: [github.com/dannyzhangprog/dapp-fund-me-backend](https://github.com/dannyzhangprog/dapp-fund-me-backend) 
 - Frontend: [github.com/dannyzhangprog/dapp-fund-me-frontend](https://github.com/dannyzhangprog/dapp-fund-me-frontend)  
 
 ⚡️ **Live Demo**:  
-[eth-usd-feedprice.vercel.app](https://eth-usd-feedprice.vercel.app/)  *(注意：此链接与 Demo 1 相同，可能需要更新)*
+https://fund-me-orpin.vercel.app/
+
 
 ---
 
@@ -33,5 +34,3 @@
 2. **列表格式**：使用 `-` 和超链接语法 `[显示文本](URL)` 提升可读性
 3. **代码标记**：技术栈名称用反引号 `` ` ` `` 包裹
 4. **分隔线**：用 `---` 分隔不同模块
-5. **问题标注**：对 Demo 2 的链接问题添加注释
-6. **响应式空格**：段落间空一行，适配 GitHub 的 Markdown 渲染
