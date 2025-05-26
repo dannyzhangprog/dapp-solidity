@@ -24,7 +24,7 @@
 - Frontend: [github.com/dannyzhangprog/dapp-fund-me-frontend](https://github.com/dannyzhangprog/dapp-fund-me-frontend)  
 
 ⚡️ **Live Demo**:  
-https://fund-me-orpin.vercel.app/
+[fund-me.vercel.app](https://fund-me-orpin.vercel.app/)
 
 
 ---
