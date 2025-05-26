@@ -1,8 +1,16 @@
-# DApp-solidtiy
+# DApp Tutorial
 Technology stack:
-  hardhat solidity react next.js
-# Demo 1: Hardhat eth-usd feed
+  frontend: RainbowKit+ wagmi + Next.js
+  backend: hardhat + @chainlink/contracts + @openzepplin/contracts
+  
+# Demo 1: price-consumer eth/usd feed
 💻 Code:
-  backend:
-  frontend:
-⚡️⚡️ Live Demo:
+  backend:https://github.com/dannyzhangprog/dapp-price-consumer-backend
+  frontend:https://github.com/dannyzhangprog/dapp-price-consumer-frontend
+⚡️⚡️ Live Demo:https://eth-usd-feedprice.vercel.app/
+
+# Demo 2: fund me
+💻 Code:
+  backend:https://github.com/dannyzhangprog/dapp-fund-me-frontend
+  frontend:https://github.com/dannyzhangprog/dapp-fund-me-frontend
+⚡️⚡️ Live Demo:https://eth-usd-feedprice.vercel.app/
