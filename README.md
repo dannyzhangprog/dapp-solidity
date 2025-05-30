@@ -28,6 +28,16 @@
 
 ---
 
+## Demo 3: ChainLink VRF
+💻 **Code**:  
+- Backend: [github.com/dannyzhangprog/dapp-dapp-vrf-backend](https://github.com/dannyzhangprog/dapp-vrf-backend) 
+- Frontend: [github.com/dannyzhangprog/dapp-vrf-frontend](https://github.com/dannyzhangprog/dapp-vrf-frontend)  
+
+⚡️ **Live Demo**:  
+[vrf.vercel.app](https://dapp-vrf-frontend.vercel.app/)
+
+---
+
 ### 优化说明：
 1. **层级标题**：用 `##` 划分二级标题，结构更清晰
 2. **列表格式**：使用 `-` 和超链接语法 `[显示文本](URL)` 提升可读性
